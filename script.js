@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "sayang yakin??",
+    "beneran gamau maafin?",
+    "coba pikir pikir dulu deh",
+    "beneran sayang gamau maafin?",
+    "coba pikir pikir lagi",
+    "kalo ngga ayang maaafin aku sedih",
+    "aku sedih banget tauu",
+    "pliss maafin aku dong sayangg",
+    "ayoo sayanggg pencett iyaaa",
+    "i love you sayangg❤️"
 ];
 
 let messageIndex = 0;
